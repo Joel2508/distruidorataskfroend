@@ -78,12 +78,12 @@ function App() {
   return (
 
     <div className="container mt-5">
-       <h1 className="text-center">Distribuidora Corripio Tarea</h1>
+       <h1 className="text-center">Distribuidora Corripio Tareas</h1>
        <hr/>
        
          
          <div className="col-12">
-         <h5>Lista de Tarea</h5>    
+         <h5>Lista de Tareas</h5>    
          <form onSubmit={posTask}>
 
            <div>
